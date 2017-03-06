@@ -1,4 +1,4 @@
-package com.example.editspinner;
+package com.reginald.editspinner;
 
 import org.junit.Test;
 
