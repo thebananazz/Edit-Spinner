@@ -1,1 +1,1 @@
-include ':sample', ':editspinner'
+include ':sample', ':editspinner', ':editspinner_library'
